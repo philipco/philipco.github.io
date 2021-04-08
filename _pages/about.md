@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Applied Mathematics under the joint supervision of [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr), professor at the [CMAP laboratory](www.cmap.polytechnique.fr/), Ecole Polytechnique, and [Aymeric Dieuleveut](https://scholar.google.fr/citations?user=ge-OinUAAAAJ&hl=fr), associate professor at the [CMAP laboratory](www.cmap.polytechnique.fr/), Ecole Polytechnique. 
+I am a PhD student in Applied Mathematics under the joint supervision of [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr), professor at the [CMAP laboratory](https://portail.polytechnique.edu/cmap/fr/), Ecole Polytechnique, and [Aymeric Dieuleveut](https://scholar.google.fr/citations?user=ge-OinUAAAAJ&hl=fr), associate professor at the CMAP laboratory, Ecole Polytechnique. 
 
 I am working on [Federated Learning](https://en.wikipedia.org/wiki/Federated_learning), analyzing the trade-offs between data privacy, communication cost and data heterogeneity in the context of distributed learning. Here is [a short presentation](https://www.telecom-paris.fr/federated-learning-privacy-friendly-ai) of Federated Learning where I try to give the key concepts without going in the details. 
 
