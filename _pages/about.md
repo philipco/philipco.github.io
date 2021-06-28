@@ -16,6 +16,7 @@ Here is [a short presentation](https://www.telecom-paris.fr/federated-learning-p
 I am graduated from [Ensimag](https://ensimag.grenoble-inp.fr/), Grenoble with a focus on Computer Science, Applied Mathematics and 3D Animation. 
 I also had the opportunity to do a six-months academic exchange with the [MIPT](https://mipt.ru/english/), Moscow to study Statistics, Machine Learning and Image recognition under the supervision of [Vadim Strijov](https://scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en).
 
-
+As part of my Ph.D., I help with the organization of the [CJC-MA 2021](https://cjc-ma2021.github.io/) (Congress of young research in Applied Mathematics) as President of the Organizing Committee. 
+This congress will take place at Ecole Polytechnique in October 2021 and aim to gather young researchers from the whole of France.
 
 

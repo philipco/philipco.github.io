@@ -9,7 +9,7 @@ redirect_from:
 
 Teaching at [Ecole Polytechnique](https://www.polytechnique.edu/):
 
-* Tutoring - Probability ([MAP361](https://moodle.polytechnique.fr/enrol/index.php?id=8358)], Ecole Polytechnique, 18h.
+* Tutoring - Probability ([MAP361](https://moodle.polytechnique.fr/enrol/index.php?id=8358)), Ecole Polytechnique, 18h.
 
 Teaching at [Collège Stanislas](https://www.stanislas.fr/), Paris:
 
