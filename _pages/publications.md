@@ -7,12 +7,14 @@ redirect_from:
 ---
 
 **[2] Preserved central model for faster bidirectional compression in distributed settings.**  
-C. Philippenko, A. Dieuleveut
+C. Philippenko, A. Dieuleveut  
+Accepted at NeurIPS 2021, Arxiv Preprint, 2021
 [PDF](https://arxiv.org/abs/2102.12528) &nbsp;
 [Code](https://github.com/philipco/mcm-bidirectional-compression)
 
 **[1] Artemis: tight convergence guarantees for bidirectional compression in federated learning.**  
-C. Philippenko, A. Dieuleveut 
+C. Philippenko, A. Dieuleveut  
+Arxiv Preprint, 2020 
 [PDF](https://arxiv.org/abs/2006.14591) &nbsp;
 [Code](https://github.com/philipco/artemis-bidirectional-compression) &nbsp;
 
