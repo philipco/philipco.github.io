@@ -6,10 +6,13 @@ redirect_from:
   - /associative_life.html
 ---
 
-I like to get involved in associations and in exciting projects.
+I like to get involved in associations and in exciting projects. I am not afraid to have positions of responsibility.
 
 **Member of the French SMAI**, since 2020.   
 *Société de Mathématiques Appliquées et Industrielles.*   
+
+**Doctoral students' delegate to the laboratory's administration**   
+CMAP Laboratory, Ecole Polytechnique, 2021 and 2022.
 
 **Congress of Applied Mathematics for Young Researchers**   
 *CJC-MA: Congrès des Jeunes Chercheurs en Mathématiques Appliquées.*   
