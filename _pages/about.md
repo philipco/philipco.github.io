@@ -16,6 +16,8 @@ Here is [a short presentation](https://www.telecom-paris.fr/federated-learning-p
 I am graduated from [Ensimag](https://ensimag.grenoble-inp.fr/), Grenoble with a focus on Computer Science, Applied Mathematics and 3D Animation. 
 I also had the opportunity to do a six-months academic exchange with the [MIPT](https://mipt.ru/english/), Moscow to study Statistics, Machine Learning and Image recognition under the supervision of [Vadim Strijov](https://scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en).
 
+**Ph.D. defense:** You can find my manuscript [here](https://philipco.github.io/files/philippenko_PhD_Thesis.pdf)!
+
 ## News!
 
 **12/2021:** I am very proud to announce that my paper *Preserved central model for faster bidirectional compression in distributed settings* has been accepted at Neurips 2021! This paper has been written with Aymeric Dieuleveut (my Ph.D. supervisor at Polytechnique) in collaboration with Laetitia Kameni and Richard VIDAL from Accenture France. In this work, we developed a new algorithm - MCM - that tackles communication constraints in a Federated Learning framework.
