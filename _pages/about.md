@@ -8,15 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Applied Mathematics under the joint supervision of [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr), professor at the [CMAP laboratory](https://portail.polytechnique.edu/cmap/fr/), Ecole Polytechnique, and [Aymeric Dieuleveut](https://scholar.google.fr/citations?user=ge-OinUAAAAJ&hl=fr), associate professor at the CMAP laboratory, Ecole Polytechnique. 
+I am a Postdoctoral researcher at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) working with [Kevin Scaman](https://kscaman.github.io/) and [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/). 
 
-I am working on [Federated Learning](https://en.wikipedia.org/wiki/Federated_learning), analyzing the trade-offs between data privacy, communication cost and data heterogeneity in the context of distributed learning. 
-Here is [a short presentation](https://www.telecom-paris.fr/federated-learning-privacy-friendly-ai) of Federated Learning where I try to give the key concepts.
 
-I am graduated from [Ensimag](https://ensimag.grenoble-inp.fr/), Grenoble with a focus on Computer Science, Applied Mathematics and 3D Animation. 
-I also had the opportunity to do a six-months academic exchange with the [MIPT](https://mipt.ru/english/), Moscow to study Statistics, Machine Learning and Image recognition under the supervision of [Vadim Strijov](https://scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en).
+I obtained my Ph.D. in "Applied Mathematics and Computer Science" from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris)
+under the joint supervision of [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr) and 
+[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), professors at the [CMAP laboratory](https://portail.polytechnique.edu/cmap/fr/) of Ecole Polytechnique. 
+
+The goal of the thesis is to focus simultaneously on two challenges of federated learning (i.e. machine learning distributed across millions of devices): 
+
+1. reducing the cost of communication by doing bidirectional compression, 
+2. while considering a heterogeneous setting.
+
+<!--- Here is [a short presentation](https://www.telecom-paris.fr/federated-learning-privacy-friendly-ai) of Federated Learning where I try to give the key concepts.
+--->
+
+ 
+I graduated from [Ensimag](https://ensimag.grenoble-inp.fr/) (Grenoble) with a specialisation in computer science, applied mathematics and 3D animation. 
+
+I also had the opportunity to do a six-month academic exchange with the [MIPT](https://mipt.ru/english/) (Moscow) to study statistics, machine learning and image recognition under the supervision of [Vadim Strijov](https://scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en).
+
+
+**Reseach interests:** optimization, distributed/federated learning, low-cost training, clients statistical heterogeneity, unsupervised learning.
 
 **Ph.D. defense:** You can find my manuscript [here](https://philipco.github.io/files/PhD/philippenko_PhD_Thesis.pdf) and also my [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)!
+
+<!---
+## Research events!
+
+**06/2020:** 
+
+**12/2019:** Ph.d. at École polytechnique.
+
 
 ## News!
 
@@ -31,4 +54,4 @@ This congress will take place at Ecole Polytechnique in October 2021 and aim to 
 
 **12/2019:** I am starting my Ph.D at Ecole Polytechnique!
 
-
+--> 

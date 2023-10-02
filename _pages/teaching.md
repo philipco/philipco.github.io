@@ -7,17 +7,17 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching at [Ecole Polytechnique](https://www.polytechnique.edu/):
+Lecturer at [École polytechnique](https://www.polytechnique.edu/), Paris.
 
-* Tutoring in Probability (MAP361), Ecole Polytechnique: 2020, 2021 (2x18h).
-* Tutoring in Optimization/Deep Learning (MAP545), Ecole Polytechnique: 2022, 2023 (2x46h).
-* Tutoring in Linear Algrebra (MAP532), Ecole Polytechnique: 2022 (12h).
+* Foundation of Machine Learning (MAP553), 2023 (18h).
+* Optimization/Deep Learning (MAP545), 2021-2023 (3x21h).
+* Probability (MAP361), 2020-2021 (2x12h).
+* Linear Algrebra (MAP532), 2022 (12h).
 
-
-Teaching at [Emines](https://www.emines-ingenieur.org/):
+Lecturer at [Emines](https://www.emines-ingenieur.org/), Ben Guerir.
 
 * Supervising students during their final internship (PFE): 2022 (12h).
 
-Teaching at [Collège Stanislas](https://www.stanislas.fr/), Paris:
+Teaching at [Collège Stanislas](https://www.stanislas.fr/), Paris.
 
-* Remedial courses in Mathematics for Middle School: 2018, 2019, 2021, 2022 (4x30h).
+* Remedial courses in Mathematics for Middle School: 2018-2023 (5x30h).

@@ -6,12 +6,18 @@ redirect_from:
   - /publications.html
 ---
 
+**[4] Compressed and distributed least-squares regression: convergence rates with applications to Federated Learning.**  
+C. Philippenko, A. Dieuleveut  
+Arxiv Preprint, 2023 &nbsp;
+[PDF](https://arxiv.org/pdf/2308.01358.pdf) &nbsp;
+[Code](https://github.com/philipco/structured_noise) &nbsp;
+
 **[3] FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings**  
 J. Ogier du Terrail, [...] C. Philippenko, [...] M. Andreux  
 Accepted at NeurIPS Dataset 2022  
 Arxiv Preprint, 2022 &nbsp;
 [PDF](https://arxiv.org/pdf/2210.04620.pdf) &nbsp;
-[Code](https://github.com/owkin/FLamby/)
+[Code](https://github.com/owkin/FLamby/) &nbsp;
 
 **[2] Preserved central model for faster bidirectional compression in distributed settings.**  
 C. Philippenko, A. Dieuleveut  
@@ -22,7 +28,7 @@ Arxiv Preprint, 2021 &nbsp;
 
 **[1] Artemis: tight convergence guarantees for bidirectional compression in federated learning.**  
 C. Philippenko, A. Dieuleveut  
-Arxiv Preprint, 2020 
+Arxiv Preprint, 2020 &nbsp;
 [PDF](https://arxiv.org/pdf/2006.14591.pdf) &nbsp;
 [Code](https://github.com/philipco/artemis-bidirectional-compression) &nbsp;
 

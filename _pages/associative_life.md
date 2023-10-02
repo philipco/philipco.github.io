@@ -19,7 +19,7 @@ CMAP Laboratory, Ecole Polytechnique, 2021 and 2022.
 Ecole Polytechnique, October 2021 ([website](https://cjc-ma2021.github.io/)).   
 President of the organizing committee. Our team created, designed and organized its first edition in collaboration with the SMAI.   
 
-**Phantasio**   
+**Phantasio** ([website](http://phantasio.fr/))  
 *Organization and creation of shows: musical comedy, opera and theatre.*   
 President and founder of the association.   
 Activites since 2020:  

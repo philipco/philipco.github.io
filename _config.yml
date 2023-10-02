@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Constantin Philippenko"
   avatar           : "profile_philippenko.jpg"
-  bio              : "Ph.D. candidate in Federated Learning at Ecole Polytechnique"
-  location         : "Ecole Polytechnique, Paris, France"
+  bio              : "Postdoctoral Researcher in distributed learning"
+  location         : "Inria, Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RIBv3lgAAAAJ&hl=en"
-  email            : "constantin.philippenko@polytechnique.edu"
+  email            : "cphilippenko@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
