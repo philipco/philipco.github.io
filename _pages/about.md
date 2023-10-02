@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral researcher at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) working with [Kevin Scaman](https://kscaman.github.io/) and [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/). 
+I am a postdoctoral researcher at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) working with [Kevin Scaman](https://kscaman.github.io/) and [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/). 
 
 
-I obtained my Ph.D. in "Applied Mathematics and Computer Science" from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris)
+I obtained my Ph.D. in "Applied Mathematics and Computer Science" from [École PPolytechnique](https://www.polytechnique.edu/en) (Paris)
 under the joint supervision of [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr) and 
-[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), professors at the [CMAP laboratory](https://portail.polytechnique.edu/cmap/fr/) of Ecole Polytechnique. 
+[Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), professors at the [CMAP laboratory](https://portail.polytechnique.edu/cmap/fr/) of École polytechnique. 
 
 The goal of the thesis is to focus simultaneously on two challenges of federated learning (i.e. machine learning distributed across millions of devices): 
 
@@ -31,7 +31,7 @@ I also had the opportunity to do a six-month academic exchange with the [MIPT](h
 
 **Reseach interests:** optimization, distributed/federated learning, low-cost training, clients statistical heterogeneity, unsupervised learning.
 
-**Ph.D. defense:** You can find my manuscript [here](https://philipco.github.io/files/PhD/philippenko_PhD_Thesis.pdf) and also my [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)!
+**Ph.D. defense:** You can find my manuscript [here](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf) and also my [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)!
 
 <!---
 ## Research events!
