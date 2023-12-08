@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) working with [Kevin Scaman](https://kscaman.github.io/) and [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/). 
+I am a postdoctoral researcher at [DI ENS](https://www.di.ens.fr) and [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) working with [Kevin Scaman](https://kscaman.github.io/) and [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/). 
 
 
-I obtained my Ph.D. in "Applied Mathematics and Computer Science" from [École PPolytechnique](https://www.polytechnique.edu/en) (Paris)
+I obtained my Ph.D. in "Applied Mathematics and Computer Science" from [École Polytechnique](https://www.polytechnique.edu/en) (Paris)
 under the joint supervision of [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr) and 
 [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), professors at the [CMAP laboratory](https://portail.polytechnique.edu/cmap/fr/) of École polytechnique. 
 
