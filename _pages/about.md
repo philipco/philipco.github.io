@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+
+
+**Reseach interests:** optimization, distributed/federated learning, low-cost training, clients statistical heterogeneity, unsupervised learning.
+
+**Ph.D. defense:** You can find my manuscript [here](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf) and also my [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)!
+
+**MT180s:** I participated to MT180s (equivalent of 3MT) and reached the regional final. Here is the [video](https://www.youtube.com/watch?v=WY5A2UTY1a8)!
+
+
 I am a postdoctoral researcher at [DI ENS](https://www.di.ens.fr) and [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) working with [Kevin Scaman](https://kscaman.github.io/) and [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/). 
 
 
@@ -29,9 +38,6 @@ I graduated from [Ensimag](https://ensimag.grenoble-inp.fr/) (Grenoble) with a s
 I also had the opportunity to do a six-month academic exchange with the [MIPT](https://mipt.ru/english/) (Moscow) to study statistics, machine learning and image recognition under the supervision of [Vadim Strijov](https://scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en).
 
 
-**Reseach interests:** optimization, distributed/federated learning, low-cost training, clients statistical heterogeneity, unsupervised learning.
-
-**Ph.D. defense:** You can find my manuscript [here](https://philipco.github.io/files/PhD/thesis_constantin_philippenko.pdf) and also my [slides](https://philipco.github.io/files/PhD/2023_09-thesis_defense.pdf)!
 
 <!---
 ## Research events!

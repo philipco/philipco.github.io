@@ -6,6 +6,12 @@ redirect_from:
   - /publications.html
 ---
 
+**[5] In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting.** &nbsp;   
+C. Philippenko, K. Scaman; L. Massoulié  
+Arxiv Preprint, 2024 &nbsp;
+[PDF](https://arxiv.org/pdf/2409.08771) &nbsp;
+[Code](https://github.com/philipco/matrix_factorization) &nbsp;
+
 **[4] Compressed and distributed least-squares regression: convergence rates with applications to Federated Learning.**  
 C. Philippenko, A. Dieuleveut  
 Arxiv Preprint, 2023 &nbsp;
