@@ -11,6 +11,7 @@ import {
   skills,
   biography,
 } from "@/lib/site-data";
+import Image from "next/image";
 
 export default function Portfolio() {
   return (
@@ -51,43 +52,50 @@ export default function Portfolio() {
         </div>
       </section>
 
-      <section id="pillars" className="mx-auto max-w-6xl px-6 py-24">
-        <h2 className="mb-10 text-3xl font-bold">Three strengths</h2>
-        <div className="grid gap-6 md:grid-cols-3">
-          {pillars.map((pillar) => (
-            <div
-              key={pillar.title}
-              className="rounded-2xl border border-slate-200 bg-white/75 p-6 backdrop-blur"
-            >
-              <h3 className="mb-3 text-xl font-semibold text-blue-700">
-                {pillar.title}
-              </h3>
-              <p className="text-slate-650">{pillar.description}</p>
-            </div>
-          ))}
-        </div>
-      </section>
       
-      <section id="biography" className="mx-auto max-w-6xl px-6 py-24">
+      
+      <section id="about" className="mx-auto max-w-6xl px-6 py-24">
   <div className="mb-10">
     <p className="mb-3 text-sm uppercase tracking-[0.3em] text-blue-700">
       Scientific and artistic trajectory
     </p>
     <h2 className="text-3xl font-bold text-slate-950 md:text-4xl">
-      {biography.title}
+      Biography
     </h2>
   </div>
 
-  <div className="grid gap-10 lg:grid-cols-[0.9fr_1.4fr]">
-    <div className="rounded-2xl border border-slate-200 bg-white/75 p-6 shadow-sm backdrop-blur">
-      <h3 className="mb-4 text-xl font-semibold text-slate-950">
+  <article className="text-base leading-8 text-slate-700">
+    <aside className="mb-8 rounded-2xl border border-slate-200 bg-white/80 p-6 shadow-sm backdrop-blur md:float-left md:mr-10 md:w-[360px]">
+      <div className="mb-6 overflow-hidden rounded-xl border border-slate-200 bg-slate-100">
+        <Image
+          src="/avatar_constantin_philippenko_at_barbe_noire.jpg"
+          alt="Constantin Philippenko"
+          width={720}
+          height={720}
+          className="aspect-[4/5] w-full object-cover scale-110"
+          priority
+        />
+      </div>
+
+      <h3 className="mb-4 text-xl font-semibold leading-snug text-slate-950">
         From research to production, from score to stage.
       </h3>
 
-      <p className="text-slate-600">
+      <p className="mb-6 text-sm leading-7 text-slate-600">
         A profile built across applied mathematics, machine learning systems,
         AI leadership, opera production and collective creation.
       </p>
+
+      <div className="space-y-4">
+        {pillars.map((pillar) => (
+          <div key={pillar.title}>
+            <h4 className="font-semibold text-blue-700">{pillar.title}</h4>
+            <p className="text-sm leading-6 text-slate-600">
+              {pillar.description}
+            </p>
+          </div>
+        ))}
+      </div>
 
       <div className="mt-6 flex flex-wrap gap-2">
         {[
@@ -101,64 +109,23 @@ export default function Portfolio() {
         ].map((tag) => (
           <span
             key={tag}
-            className="rounded-full border border-slate-200 bg-white px-3 py-1 text-sm text-slate-700"
+            className="rounded-full border border-slate-200 bg-white px-3 py-1 text-xs text-slate-700"
           >
             {tag}
           </span>
         ))}
       </div>
-    </div>
+    </aside>
 
     <div className="space-y-5">
       {biography.paragraphs.map((paragraph) => (
-        <p key={paragraph} className="text-base leading-8 text-slate-700">
-          {paragraph}
-        </p>
+        <p key={paragraph}>{paragraph}</p>
       ))}
     </div>
-  </div>
+
+    <div className="clear-both" />
+  </article>
 </section>
-
-      <section id="timeline" className="mx-auto max-w-6xl px-6 py-24">
-        <h2 className="mb-4 text-3xl font-bold">Experience timeline</h2>
-        <p className="mb-10 max-w-3xl text-slate-600">
-          A multi-track trajectory across research, production ML, consulting and leadership.
-        </p>
-        <Timeline />
-      </section>
-
-      <section id="consulting" className="mx-auto max-w-6xl px-6 py-24">
-        <h2 className="mb-4 text-3xl font-bold">Consulting</h2>
-        <p className="mb-8 max-w-3xl text-slate-650">
-          I am open to selected consulting engagements where ML research,
-          production constraints and AI strategy meet.
-        </p>
-
-        <div className="grid gap-4 md:grid-cols-2">
-          {consulting.map((item) => (
-            <div
-              key={item}
-              className="rounded-xl border border-slate-200 bg-white/75 p-5 text-slate-750"
-            >
-              {item}
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <section id="skills" className="mx-auto max-w-6xl px-6 py-24">
-        <h2 className="mb-8 text-3xl font-bold">Technical stack</h2>
-        <div className="flex flex-wrap gap-3">
-          {skills.map((skill) => (
-            <span
-              key={skill}
-              className="rounded-full border border-slate-200 bg-white/75 px-4 py-2 text-sm text-slate-750"
-            >
-              {skill}
-            </span>
-          ))}
-        </div>
-      </section>
 
       <section id="publications" className="mx-auto max-w-6xl px-6 py-24">
         <h2 className="mb-8 text-3xl font-bold">Selected publications</h2>

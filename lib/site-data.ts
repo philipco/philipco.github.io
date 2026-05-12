@@ -15,17 +15,17 @@ export const pillars = [
   {
     title: "Research",
     description:
-      "Federated learning, distributed optimization, compression, client heterogeneity, matrix factorization and low-cost training.",
+      "Federated learning, distributed optimization, compression, client heterogeneity and low-cost training.",
   },
   {
     title: "Technical delivery",
     description:
-      "Production ML, hierarchical classification, RAG systems and evaluation.",
+      "Production ML, hierarchical classification, RAG systems, MLOps and evaluation.",
   },
   {
     title: "Leadership",
     description:
-      "AI transformation, internal consulting, cross-functional coordination, project leadership and scientific program design.",
+      "AI transformation, consulting, cross-functional coordination and project leadership.",
   },
 ];
 
@@ -208,22 +208,23 @@ export const selectedTalks = [
 export const biography = {
   title: "Biography",
   paragraphs: [
-    "Constantin Philippenko is a Ph.D. in Applied Mathematics from École polytechnique, specialized in artificial intelligence, federated learning and distributed optimization. His trajectory combines scientific research, production-grade machine learning, technical leadership and artistic entrepreneurship.",
+    "Constantin Philippenko is a Ph.D. in Applied Mathematics from École polytechnique, specialized in artificial intelligence, federated learning and distributed optimization. His trajectory combines scientific research, production-grade machine learning, technical leadership and entrepreneurship.",
+    
+    "He is now Lead ML Scientist at Agence France-Presse, where he works on hierarchical text classification, RAG systems, metadata enrichment, MLOps, evaluation protocols and AI quality for editorial workflows. His work sits at the intersection of research, robust deployment, model evaluation, bias mitigation and AI transformation.",
 
     "After an engineering degree from Ensimag in Applied Mathematics and Computer Science, he worked as a Java consultant for financial institutions including HSBC and Société Générale. This early industrial experience gave him a pragmatic view of software engineering, data-intensive systems and delivery constraints in demanding environments.",
 
     "He then completed a Ph.D. at École polytechnique on federated learning, focusing on communication-efficient distributed optimization under client heterogeneity. His research addressed bidirectional compression, convergence guarantees and low-cost training, with publications in venues such as NeurIPS, JMLR and AAAI. He later pursued postdoctoral research at Inria Paris and DI ENS on decentralized learning and unsupervised methods under communication constraints.",
+    
+    "After the COVID period, aware of the need to rebuild scientific links among young researchers, he founded the Congress for Young Researchers in Applied Mathematics. Attached to teaching and scientific outreach, he participated in Ma thèse en 180 secondes and taught the mathematical foundations of AI at École polytechnique from 2020 to 2025.",
 
-    "He is now Lead ML Scientist at Agence France-Presse, where he works on hierarchical text classification, RAG systems, metadata enrichment, MLOps, evaluation protocols and AI quality for editorial and investigative workflows. His work sits at the intersection of research, robust deployment, model evaluation, bias mitigation and AI transformation.",
-
-    "In parallel, Constantin leads artistic and collective projects. Trained in choral and lyrical singing at the Conservatoire de Nice, he founded Phantasio in 2020 to make classical music more accessible, support young singers on their path to professionalization and contribute to new musical creation.",
+    "In parallel, Constantin leads artistic and collective projects. He founded Phantasio in 2020 to make classical music more accessible, support young singers on their path to professionalization and contribute to new musical creation.",
 
     "As producer of the opera Barbe-Noire, his ambition is to bring a score from paper to life. He structures, finances and pilots the project, brings artistic teams together and builds partnerships. His role is to create the conditions in which artists can fully deploy their creativity and talent, with the aim of bringing to life a work that can endure and inspire future generations.",
 
     "He also produced the operetta L’Enlèvement consentant, written by composer Ambroise Divaret, and created an annual lyrical singing gala in Paris. Through collaborations with the City of Paris and social housing organizations, he develops initiatives to bring opera and lyrical music into priority neighborhoods, driven by a constant commitment to openness, transmission and access to culture.",
 
-    "After the COVID period, aware of the need to rebuild scientific links among young researchers, he founded the Congress for Young Researchers in Applied Mathematics. Attached to teaching and scientific outreach, he participated in Ma thèse en 180 secondes and taught the mathematical foundations of AI at École polytechnique from 2020 to 2025.",
 
-    "Across science, engineering and the arts, his work follows the same principle: transforming abstract ideas into living systems — algorithms that work in production, institutions that create collective momentum, and artistic projects that bring people together.",
+    "Across science, engineering and the arts, his work follows the same principle: transforming ambitious abstract ideas into living systems — algorithms that work in production, institutions that create collective momentum, and artistic projects that create beauty for  people together.",
   ],
 };
