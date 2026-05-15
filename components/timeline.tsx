@@ -1,52 +1,44 @@
-"use client";
+type TimelineItem = {
+  lane: string;
+  title: string;
+  organization: string;
+  start: string;
+  end: string;
+  description: string;
+};
 
-import { motion } from "framer-motion";
-import { timelineItems } from "@/lib/site-data";
-
-const lanes = ["Research", "Industry", "Leadership", "Consulting"];
-
-export function Timeline() {
+export function Timeline({ items }: { items: TimelineItem[] }) {
   return (
-    <div className="w-full overflow-x-auto rounded-2xl border border-white/10 bg-white/5 p-6 backdrop-blur">
-      <div className="min-w-[900px] space-y-6">
-        {lanes.map((lane) => (
-          <div key={lane} className="grid grid-cols-[140px_1fr] gap-6">
-            <div className="pt-3 text-sm font-semibold uppercase tracking-wider text-white/60">
-              {lane}
+    <div className="relative border-l border-slate-300 pl-8">
+      {items.map((item) => (
+        <div key={`${item.title}-${item.organization}`} className="relative mb-12">
+          <div className="absolute -left-[41px] top-1 h-4 w-4 rounded-full border-4 border-white bg-blue-700 shadow" />
+
+          <div className="rounded-2xl border border-slate-200 bg-white/75 p-6 shadow-sm backdrop-blur">
+            <div className="mb-2 flex flex-wrap items-center gap-3 text-sm">
+              <span className="font-medium uppercase tracking-[0.2em] text-blue-700">
+                {item.lane}
+              </span>
+              <span className="text-slate-400">·</span>
+              <span className="text-slate-600">
+                {item.start} — {item.end}
+              </span>
             </div>
 
-            <div className="relative min-h-[96px] border-t border-white/10 pt-4">
-              <div className="grid grid-cols-8 gap-3">
-                {timelineItems
-                  .filter((item) => item.lane === lane)
-                  .map((item, index) => (
-                    <motion.div
-                      key={`${item.title}-${item.organization}`}
-                      initial={{ opacity: 0, y: 16 }}
-                      whileInView={{ opacity: 1, y: 0 }}
-                      viewport={{ once: true }}
-                      transition={{ delay: index * 0.08 }}
-                      className="col-span-2 rounded-xl border border-white/10 bg-black/40 p-4 shadow-xl hover:border-cyan-400/40"
-                    >
-                      <div className="mb-2 text-xs text-cyan-300">
-                        {item.start} — {item.end}
-                      </div>
-                      <h3 className="text-base font-semibold text-white">
-                        {item.title}
-                      </h3>
-                      <p className="mb-2 text-sm text-white/70">
-                        {item.organization}
-                      </p>
-                      <p className="text-sm leading-relaxed text-white/55">
-                        {item.description}
-                      </p>
-                    </motion.div>
-                  ))}
-              </div>
-            </div>
+            <h3 className="text-xl font-semibold text-slate-950">
+              {item.title}
+            </h3>
+
+            <p className="mt-1 font-medium text-slate-700">
+              {item.organization}
+            </p>
+
+            <p className="mt-4 leading-7 text-slate-600">
+              {item.description}
+            </p>
           </div>
-        ))}
-      </div>
+        </div>
+      ))}
     </div>
   );
 }

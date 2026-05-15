@@ -3,7 +3,7 @@ export const profile = {
   title: "Lead ML Scientist | NLP, LLM Systems, MLOps, AI Quality",
   headline: "Building reliable AI systems from research to production.",
   subtitle:
-    "Ph.D. in Machine Learning from École polytechnique. Lead ML Scientist at AFP. I work at the intersection of AI research, production and transformation planification. My topics of expertise are Federated learning, RAG systems, ML deployment, AI quality and technical leadership.",
+    "Ph.D. in Machine Learning from École polytechnique - Lead ML Scientist at AFP.\nI work at the intersection of AI research, production and transformation planification.\nMy topics of expertise are Federated learning, RAG systems, ML deployment, AI quality and technical leadership.",
   location: "Paris, France",
   email: "cphilippenko@gmail.com",
   github: "https://github.com/philipco",
@@ -80,7 +80,7 @@ export const publications = [
 
 export const timelineItems = [
   {
-    lane: "Industry",
+    lane: "Industry / Leadership",
     title: "Lead ML Scientist",
     organization: "Agence France-Presse",
     start: "2025",
@@ -89,13 +89,22 @@ export const timelineItems = [
       "Leading production ML for editorial and investigative workflows: hierarchical text classification, RAG systems, metadata enrichment, evaluation, monitoring, AI quality and internal LLM strategy.",
   },
   {
-    lane: "Consulting",
+    lane: "Consulting / Research",
     title: "AI Consultant",
     organization: "Philippenko AI Conseil",
     start: "2025",
     end: "Present",
     description:
       "Advisory and hands-on work on scientific foundation models, federated learning, OCR, RAG pipelines and interim AI leadership.",
+  },
+  {
+    lane: "Leadership",
+    title: "Founder & Artistic Project Lead",
+    organization: "Phantasio",
+    start: "2020",
+    end: "Present",
+    description:
+      "Founded and led a multidisciplinary collective producing music, opera and theatre projects. Directed Barbe-Noire with 100+ artists and technicians.",
   },
   {
     lane: "Research",
@@ -116,31 +125,22 @@ export const timelineItems = [
       "Federated learning, bidirectional compression, distributed optimization, heterogeneous clients, convergence guarantees. Supervised by Aymeric Dieuleveut and Éric Moulines.",
   },
   {
-    lane: "Industry",
-    title: "Java Consultant",
-    organization: "Global Market Solutions · HSBC · Société Générale",
-    start: "2018",
-    end: "2019",
-    description:
-      "Built data-intensive tools for financial use cases across banking and analytics environments.",
-  },
-  {
-    lane: "Leadership",
-    title: "Founder & Artistic Project Lead",
-    organization: "Phantasio",
-    start: "2020",
-    end: "Present",
-    description:
-      "Founded and led a multidisciplinary collective producing music, opera and theatre projects. Directed Barbe-Noire with 100+ artists and technicians.",
-  },
-  {
-    lane: "Leadership",
+    lane: "Leadership / Research",
     title: "Founder & Organizer",
     organization: "CJC-MA",
     start: "2021",
     end: "2021",
     description:
       "Founded the Congress for Young Researchers in Applied Mathematics. Led funding, partnerships, organization and scientific program design.",
+  },
+  {
+    lane: "Industry / Consulting",
+    title: "Java Consultant",
+    organization: "Global Market Solutions · HSBC · Société Générale",
+    start: "2018",
+    end: "2019",
+    description:
+      "Built data-intensive tools for financial use cases across banking and analytics environments.",
   },
 ];
 
@@ -218,7 +218,7 @@ export const biography = {
     
     "After the COVID period, aware of the need to rebuild scientific links among young researchers, he founded the Congress for Young Researchers in Applied Mathematics. Attached to teaching and scientific outreach, he participated in Ma thèse en 180 secondes and taught the mathematical foundations of AI at École polytechnique from 2020 to 2025.",
 
-    "In parallel, Constantin leads artistic and collective projects. He founded Phantasio in 2020 to make classical music more accessible, support young singers on their path to professionalization and contribute to new musical creation.",
+    "In parallel, Constantin leads artistic and collective projects. He founded Phantasio in 2020 to make classical music more accessible, support young artists on their path to professionalization and contribute to new musical creation.",
 
     "As producer of the opera Barbe-Noire, his ambition is to bring a score from paper to life. He structures, finances and pilots the project, brings artistic teams together and builds partnerships. His role is to create the conditions in which artists can fully deploy their creativity and talent, with the aim of bringing to life a work that can endure and inspire future generations.",
 

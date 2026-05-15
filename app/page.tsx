@@ -10,6 +10,7 @@ import {
   selectedTalks,
   skills,
   biography,
+  timelineItems,
 } from "@/lib/site-data";
 import Image from "next/image";
 
@@ -25,9 +26,9 @@ export default function Portfolio() {
           {profile.headline}
         </h1>
 
-        <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-700">
-          {profile.subtitle}
-        </p>
+        <p className="mt-6 max-w-3xl whitespace-pre-line text-lg leading-8 text-slate-700">
+  	{profile.subtitle}
+	</p>
 
         <div className="mt-8 flex flex-wrap gap-4">
           <Button asChild>
@@ -125,6 +126,19 @@ export default function Portfolio() {
 
     <div className="clear-both" />
   </article>
+</section>
+
+<section id="timeline" className="mx-auto max-w-6xl px-6 py-24">
+  <div className="mb-12">
+    <p className="mb-3 text-sm uppercase tracking-[0.3em] text-blue-700">
+      Experience
+    </p>
+    <h2 className="text-3xl font-bold text-slate-950 md:text-4xl">
+      Timeline
+    </h2>
+  </div>
+
+  <Timeline items={timelineItems} />
 </section>
 
       <section id="publications" className="mx-auto max-w-6xl px-6 py-24">
