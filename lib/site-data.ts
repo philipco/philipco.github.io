@@ -43,6 +43,8 @@ export const publications = [
       "Adaptive collaboration for online personalized distributed learning with heterogeneous clients",
     venue: "arXiv",
     year: "2025",
+    pdf: "https://arxiv.org/pdf/2507.06844",
+    code: "https://github.com/philipco/adaptative_collaboration",
   },
   {
     title:
@@ -259,3 +261,42 @@ export const biography = {
     "Across science, engineering and the arts, his work follows the same principle: transforming ambitious abstract ideas into living systems — algorithms that work in production, institutions that create collective momentum, and artistic projects that create beauty for  people together.",
   ],
 };
+
+export const phdResources = [
+  {
+    kind: "manuscript",
+    label: "Ph.D. manuscript",
+    title: "Bidirectional compression for federated learning in a heterogeneous setting",
+    href: "/thesis_constantin_philippenko.pdf",
+    description:
+      "Full doctoral manuscript on federated learning, bidirectional compression, distributed optimization and heterogeneous clients.",
+  },
+  {
+    kind: "slides",
+    label: "Defense slides",
+    title: "Ph.D. defense slides",
+    href: "/2023_09-thesis_defense.pdf",
+    description:
+      "Slides from my Ph.D. defense at École polytechnique, summarizing the main contributions and results.",
+  },
+  {
+  kind: "video",
+  label: "Science outreach",
+  title: "Ma thèse en 180 secondes",
+  href: "https://www.youtube.com/watch?v=WY5A2UTY1a8",
+  thumbnail: "https://img.youtube.com/vi/WY5A2UTY1a8/maxresdefault.jpg",
+  description:
+    "Participation in Ma thèse en 180 secondes, the French equivalent of 3MT, where I reached the regional final.",
+}
+];
+
+export const distinctions = [
+  {
+    title: "Accesit — 2022 STIC Doctoral Prizes",
+    label: "Award",
+    description:
+      "Accesit awarded by the jury of the 2022 STIC Doctoral Prizes for doctoral research in information and communication sciences and technologies.",
+    organizers:
+      "Labex DigiCosme, école doctorale STIC de l’Université Paris-Saclay, école doctorale de l’Institut Polytechnique de Paris.",
+  },
+];
