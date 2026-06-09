@@ -86,17 +86,48 @@ export const timelineItems = [
     start: "2025",
     end: "Present",
     description:
-      "Leading production ML for editorial and investigative workflows: hierarchical text classification, RAG systems, metadata enrichment, evaluation, monitoring, AI quality and internal LLM strategy.",
+      "Leading AI strategy and production machine learning for editorial and investigative workflows across AFP.",
+     details: [
+  {
+    client: "Production ML",
+    year: "2025–Present",
+    text:
+      "Production ownership of classification, metadata enrichment and content understanding systems used across editorial workflows.",
   },
   {
-    lane: "Consulting / Research",
-    title: "AI Consultant",
-    organization: "Philippenko AI Conseil",
-    start: "2025",
-    end: "Present",
-    description:
-      "Advisory and hands-on work on scientific foundation models, federated learning, OCR, RAG pipelines and interim AI leadership.",
+  client: "RAG & Investigative AI",
+  year: "2025–Present",
+  text:
+    "Development of RAG systems, evaluation pipelines and AI quality frameworks. Designed ad hoc RAG workflows on Snowflake to accelerate exploration and analysis of large multimodale database (for example, the Epstein files).",
   },
+  {
+  client: "Information extraction and structuration of AI agents",
+  year: "2025–Present",
+  text:
+    "Exploring how to extract, structure and standardize the informational signal of AFP dispatches into reusable information atoms, with the goal of making news content more actionable for AI agents, chatbots and downstream knowledge systems. Contributing to early discussions on emerging standards with IPTC.",
+  }],
+  },
+{
+  lane: "Consulting / Research",
+  title: "AI Consultant",
+  organization: "Philippenko AI Conseil",
+  start: "2025",
+  end: "Present",
+  description:
+    "Independent AI consulting practice focused on scientific AI, foundation models, federated learning and AI product strategy.",
+  details: [
+    {
+      client: "SigmaNova",
+      year: "2025",
+      text: "Advised a scientific AI startup on training foundation models using federated learning and knowledge integration. Designded scalable AI architectures, product positioning and monetization strategy.",
+    },
+    {
+      client: "Legomnia",
+      year: "2025",
+      text: "Interim CTO / AI Lead. Led OCR and RAG systems for legal documents, defined technical roadmap, supervised AI development and established engineering priorities.",
+    },
+  ],
+},
   {
     lane: "Leadership",
     title: "Founder & Artistic Project Lead",
