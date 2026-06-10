@@ -103,10 +103,10 @@ export const timelineItems = [
     "Development of RAG systems, evaluation pipelines and AI quality frameworks. Designed ad hoc RAG workflows on Snowflake to accelerate exploration and analysis of large multimodale database (for example, the Epstein files).",
   },
   {
-  client: "Information extraction and structuration of AI agents",
+  client: "Information extraction and structuration for AI agents",
   year: "2025–Present",
   text:
-    "Exploring how to extract, structure and standardize the informational signal of AFP dispatches into reusable information atoms, with the goal of making news content more actionable for AI agents, chatbots and downstream knowledge systems. Contributing to early discussions on emerging standards with IPTC.",
+    "Exploring how to extract, structure and standardize the informational signal of AFP dispatches into reusable information atoms, with the goal of making news content more actionable for AI agents, chatbots and downstream knowledge systems. Contributing to early discussions on emerging standards with IPTC organisation (Information Interchange Model).",
   }],
   },
 {
@@ -116,12 +116,12 @@ export const timelineItems = [
   start: "2025",
   end: "Present",
   description:
-    "Independent AI consulting practice focused on scientific AI, foundation models, federated learning and AI product strategy.",
+    "Independent AI consulting.",
   details: [
     {
       client: "SigmaNova",
       year: "2025",
-      text: "Advised a scientific AI startup on training foundation models using federated learning and knowledge integration. Designded scalable AI architectures, product positioning and monetization strategy.",
+      text: "Advised a scientific AI startup on training foundation models using federated learning and knowledge integration. Designded AI architectures, product positioning and monetization strategy.",
     },
     {
       client: "Legomnia",

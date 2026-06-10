@@ -4,6 +4,7 @@ import {
   Github,
   Linkedin,
   Mail,
+  PencilLine,
   ArrowRight,
   Quote,
   FileText,
@@ -34,12 +35,22 @@ export default function Portfolio() {
       <section className="mx-auto flex min-h-screen max-w-6xl flex-col justify-center px-6 py-24">
         <p className="mb-2 text-xl font-semibold text-slate-900">
           Constantin Philippenko
-        </p>
+          <span className="rounded-full border border-slate-200 px-3 py-1 text-sm text-slate-600">
+    PhD, École polytechnique
+  </span>
 
-        <p className="mb-6 text-base text-slate-600">
-          Lead ML Scientist at Agence France-Presse · Ph.D. in Machine Learning,
-          École polytechnique
+  <span className="rounded-full border border-slate-200 px-3 py-1 text-sm text-slate-600">
+    Former Inria researcher
+  </span>
         </p>
+        
+        <div className="mb-8 flex flex-wrap items-center gap-3 text-base">
+  	<span className="font-medium text-slate-800">
+    	Lead ML Scientist at AFP - Building production AI systems for one of the world's largest news agencies.
+  	</span>
+
+	</div>
+
 
         <p className="mb-4 text-sm uppercase tracking-[0.3em] text-blue-700">
           AI Leadership · ML Systems · Research
@@ -49,10 +60,10 @@ export default function Portfolio() {
           Building reliable AI systems from research to production.
         </h1>
 
-        <p className="mt-8 max-w-3xl text-xl leading-9 text-slate-700">
-          I work at the intersection of AI research, production systems and
-          organizational transformation.
-        </p>
+
+	<p className="mt-4 max-w-3xl text-xl leading-9 text-slate-700">
+  	I work at the intersection of AI research, production systems and organizational transformation.
+	</p>
 
         <div className="mt-6 flex flex-wrap gap-3">
           {[
@@ -72,6 +83,27 @@ export default function Portfolio() {
             </span>
           ))}
         </div>
+        
+        <a
+	  href="mailto:constantin.philippenko@afp.com"
+	  className="
+	    mt-8 inline-flex w-fit items-center gap-2
+	    rounded-full border border-emerald-200
+	    bg-white/60 px-4 py-2
+	    text-sm font-medium text-emerald-700
+	    backdrop-blur-sm
+	    transition-all duration-200
+	    hover:border-emerald-300
+	    hover:bg-emerald-50
+	    group
+	  "
+	>
+	  <span className="h-2 w-2 rounded-full bg-emerald-500" />
+	  <span>Always available for consulting & advisory</span>
+	  <Mail className="h-4 w-4 opacity-0 transition-opacity group-hover:opacity-100" />
+	</a>
+
+
 
         <div className="mt-8 flex flex-wrap gap-4">
           <Button asChild>
