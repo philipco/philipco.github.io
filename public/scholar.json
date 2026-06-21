@@ -1,6 +1,47 @@
 {
-  "citations": 431,
+  "citations": 442,
   "hIndex": 4,
   "i10Index": 3,
-  "papers": []
+  "papers": [
+    {
+      "title": "Flamby: Datasets and benchmarks for cross-silo federated learning in realistic healthcare settings",
+      "citations": 258,
+      "year": "2022"
+    },
+    {
+      "title": "Bidirectional compression in heterogeneous settings for distributed or federated learning with partial participation: tight convergence guarantees",
+      "citations": 111,
+      "year": "2020"
+    },
+    {
+      "title": "Preserved central model for faster bidirectional compression in distributed settings",
+      "citations": 60,
+      "year": "2021"
+    },
+    {
+      "title": "Compressed and distributed least-squares regression: convergence rates with applications to federated learning",
+      "citations": 7,
+      "year": "2024"
+    },
+    {
+      "title": "In-depth analysis of low-rank matrix factorisation in a federated setting",
+      "citations": 4,
+      "year": "2025"
+    },
+    {
+      "title": "Adaptive collaboration for online personalized distributed learning with heterogeneous clients",
+      "citations": 1,
+      "year": "2025"
+    },
+    {
+      "title": "Bidirectional compression for Federated Learning in a heterogeneous setting",
+      "citations": 1,
+      "year": "2023"
+    },
+    {
+      "title": "Compression bidirectionnelle pour l'apprentissage fédéré hétérogène",
+      "citations": 0,
+      "year": "2023"
+    }
+  ]
 }
